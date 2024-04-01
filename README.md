@@ -1,9 +1,7 @@
-# My Projects
+# Python
 
 <b>Personal learning on:</b>
 <ul>
-  <li>Python Programming</li>
+  <li>Python Programming & Visualization</li>
   <li>Machine Learning</li>
-  <li>SQL</li>
-  <li>Tableau</li>
 </ul>
