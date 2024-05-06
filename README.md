@@ -1,4 +1,4 @@
-# Python
+# Python (AI100 & AI200)
 
 <b>Personal learning on:</b>
 <ul>
