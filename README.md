@@ -6,5 +6,5 @@ This Repository will hold all of the code and queries from my various projects a
   <li>Python Programming & Visualization (AI100)</li>
   <li>Applied Machine Learning (In Progress)</li>
   <li>SQL (In Progress)</li>
-  <li>Tableau <In Progress)</li>
+  <li>Tableau (In Progress)</li>
 </ul>
