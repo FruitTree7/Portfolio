@@ -9,7 +9,7 @@ An Account Specialist proficient in Contact Centre operations, aiming to transit
 
 <h3 align="left">My Projects</h3>
 
-- 🐍 **Python Programming & Visualization**
+- 🐍 [**Python Programming & Visualization**](https://github.com/FruitTree7/Portfolio/blob/625294881821a9cba0652e660adab2b4dea9abb7/Python%20Programming%20and%20Data%20Visualization.ipynb)
 - 🖥️ **Applied Machine Learning** (In Progress)
 - 🗃️ **SQL** (In Progress)
 - 📊 **Tableau** (In Progress)
